@@ -1,5 +1,5 @@
 delcommapp
-Adalah aplikasi yang dapat digunakan untuk menghapus command pada capture.
+Adalah aplikasi yang dapat digunakan untuk menghapus command pada capture atau text pada file txt.
 
 Cara penggunaan:
 1. Buka file delcommapp.exe
