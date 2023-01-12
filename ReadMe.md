@@ -23,7 +23,7 @@ git clone https://github.com/jekyMonte/Delcommapp.git
 Then, install the necessary packages by running the following command:
 
 ```bash
-pip install -r requirements.txt
+pip install customtkinter
 ```
 
 ### Running the tool
@@ -49,7 +49,4 @@ python main.py
 ## Author
 
 - **Jeky Monte** - [Jeky Monte](https://github.com/jekyMonte)
-
-
-
 
