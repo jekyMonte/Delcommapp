@@ -1,4 +1,4 @@
-# File Management Tool
+# Delcommapp
 
 This is a simple file management tool that allows the user to upload, delete, and download files. It uses the Tkinter library for the GUI, and the shutil and os libraries for file management.
 
@@ -10,8 +10,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 - Python 3.x
 - Tkinter
-- shutil
-- os
 - customtkinter
 
 ### Installing
@@ -20,6 +18,12 @@ Clone the repository or download the files to your local machine.
 
 ```bash
 git clone https://github.com/jekyMonte/Delcommapp.git
+```
+
+Then, install the necessary packages by running the following command:
+
+```bash
+pip install -r requirements.txt
 ```
 
 ### Running the tool
@@ -40,8 +44,6 @@ python main.py
 
 - [Python](https://www.python.org/) - Programming Language
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) - GUI library
-- [shutil](https://docs.python.org/3/library/shutil.html) - File Management library
-- [os](https://docs.python.org/3/library/os.html) - Interacting with Operating System
 - [customtkinter](https://pypi.org/project/customtkinter/) - custom tkinter widgets and button
 
 ## Author
